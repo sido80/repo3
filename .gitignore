@@ -1,0 +1,16 @@
+addon.xml
+zips/addons.xml
+zips/addons.xml.md5
+zips/repo/addons.xml.md5
+zips/repo/repo-1.0.0.zip
+zips/repo/vpnbook-fr200-tcp443.ovpn
+zips/repo/vpnbook-fr200-tcp80.ovpn
+zips/repo/vpnbook-fr200-udp25000.ovpn
+zips/repo/vpnbook-fr200-udp53.ovpn
+zips/repo/vpnbook.zip
+zips/repo3/repo3-1.0.0.zip
+zips/repo3/vpnbook-fr200-tcp443.ovpn
+zips/repo3/vpnbook-fr200-tcp80.ovpn
+zips/repo3/vpnbook-fr200-udp25000.ovpn
+zips/repo3/vpnbook-fr200-udp53.ovpn
+zips/repo3/vpnbook.zip
