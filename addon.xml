@@ -4,9 +4,9 @@
        provider-name="sido80">
     <extension point="xbmc.addon.repository"
                name="Mon Dépôt Kodi">
-        <info compressed="false">https://sido80.github.io/repos/zips/addons.xml</info>
-        <checksum>https://sido80.github.io/repo/zips/addons.xml.md5</checksum>
-        <datadir zip="true">https://sido80.github.io/repo/zips/</datadir>
+        <info compressed="false">https://sido80.github.io/repo3/zips/addons.xml</info>
+        <checksum>https://sido80.github.io/repo3/zips/addons.xml.md5</checksum>
+        <datadir zip="true">https://sido80.github.io/repo3/zips/</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>Mon dépôt personnel Kodi</summary>
